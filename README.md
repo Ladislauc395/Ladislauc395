@@ -88,13 +88,3 @@ DevOps+e+Arquitetura+Escalável" />
 - Padronização de ambientes  
 - CI/CD básico com GitHub Actions  
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ladislauc395&show_icons=true&theme=tokyonight)
-
----
-
-<p align="center">
-  <em>"Código limpo, containers bem definidos e arquitetura que escala."</em>
-</p>
-
