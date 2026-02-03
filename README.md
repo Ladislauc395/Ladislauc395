@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ladislau Cristóvão, tenho 19 anos e sou natural de Luanda. Concluí o ensino médio no ITEL, com o curso técnico em informática. Atualmente,trabalhando como freelancer no upwork, siga-me no linkedin www.linkedin.com/in/
+Meu nome é  Ladislau Cristóvão, tenho 19 anos e sou natural de Luanda. Concluí o ensino médio no ITEL, com o curso técnico em informática. Atualmente,trabalhando como freelancer no upwork, siga-me no linkedin www.linkedin.com/in/
 <!-- HEADER COM EFEITO MÁQUINA DE ESCREVER -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?
