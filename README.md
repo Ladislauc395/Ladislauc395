@@ -89,13 +89,7 @@ DevOps+e+Arquitetura+Escalável" />
 - CI/CD básico com GitHub Actions  
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ladislauc395&show_icons=true)
 
-## 🧠 Arquitetura Preferida
 
-```txt
-Frontend:    Next.js + TypeScript
-Backend:     NestJS + Node.js
-Mobile:      Flutter
-ORM:         Prisma / TypeORM / Drizzle
-Database:    PostgreSQL
-DevOps:      Docker + Linux
+
