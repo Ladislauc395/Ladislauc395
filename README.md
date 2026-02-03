@@ -89,7 +89,7 @@ DevOps+e+Arquitetura+Escalável" />
 - CI/CD básico com GitHub Actions  
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ladislauc395&show_icons=true)
+![LadislUc395's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ladislauc395&show_icons=true)
 
 
 
